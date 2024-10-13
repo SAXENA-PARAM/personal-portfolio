@@ -2,7 +2,9 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SAXENA-PARAM/personal-portfolio)
 
+## Deployment
 
+You can visit the deployed portfolio [here](https://saxena-param.github.io/personal-portfolio/).
 
 ## Demo
 
